@@ -37,3 +37,12 @@ body {
   }
 
 }
+
+.card-size {
+  width: 20rem;
+}
+
+.img-size {
+  width: 20rem;
+  height: 15rem;
+}
